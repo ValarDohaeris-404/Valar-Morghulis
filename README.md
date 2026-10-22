@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jasemota
-- 👀 I’m interested in data analytics and backend engineering 
-- 🌱 I’m currently learning data analytics
+- 👋 Hi, I’m @ValarDohaeris_404
+- 👀 I’m interested in DevOps and Cloud engineering 
+- 🌱 I’m currently learning Cloud Engineering at Altschool Africa
 - 💞️ I’m looking to collaborate on any of these fields
 - 📫 You can reach me on asemotajoshua001@gmail.com
 
