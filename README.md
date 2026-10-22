@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ValarDohaeris_404
+- 👋 Hi, My username is @ValarDohaeris-404
 - 👀 I’m interested in DevOps and Cloud engineering 
 - 🌱 I’m currently learning Cloud Engineering at Altschool Africa
 - 💞️ I’m looking to collaborate on any of these fields
